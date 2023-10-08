@@ -1,3 +1,5 @@
+package com.project;
+
 public class FactoryTransportation {
 
     public static Transportation getTransportation(String method) {

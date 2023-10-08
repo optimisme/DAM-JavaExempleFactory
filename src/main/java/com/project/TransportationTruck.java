@@ -1,3 +1,5 @@
+package com.project;
+
 public class TransportationTruck implements Transportation {
 
     @Override
